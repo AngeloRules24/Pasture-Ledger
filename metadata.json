@@ -1,0 +1,6 @@
+{
+  "name": "PastureLedger - Farm & Livestock Manager",
+  "description": "Comprehensive farm and livestock management system with cattle pedigree tracking, dipping and seasonal vaccination schedules, employee attendance with absence reasons, birthday notices, and interactive herd analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
